@@ -8,3 +8,5 @@ Useful URLs:
  - TinkerHost Homepage: https://tinkerhost.net/
 
  - TinkerHost Status Page: https://status.tinkerhost.net/
+
+ - Upgrade to TinkerHost+: https://buymeacoffee.com/tinkertechlab
